@@ -1,0 +1,35 @@
+body {
+  background-color: #0f0f1a;
+  color: #e4e6eb;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  max-width: 900px;
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+  color: #5865F2;
+  margin-bottom: 30px;
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 15px;
+  font-size: 15px;
+}
+
+button {
+  display: block;
+  margin: 30px auto;
+  background-color: #5865F2;
+  color: white;
+  border: none;
+  padding: 14px 25px;
+  font-size: 16px;
+  border-radius: 8px;
+}
+
+button:active {
+  opacity: 0.8;
+}
